@@ -1,5 +1,7 @@
 # EX: 4 IMPLEMENTATION OF CLUSTER AND VISITOR SEGMENTATION FOR NAVIGATION PATTERNS
 
+## DATE: 
+
 ## AIM: 
 To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ## Description:
